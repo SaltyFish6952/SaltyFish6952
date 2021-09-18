@@ -10,3 +10,4 @@ SaltyFish6952/SaltyFish6952 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ![SaltyFish6952's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaltyFish6952&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaltyFish6952)](https://github.com/anuraghazra/github-readme-stats)
